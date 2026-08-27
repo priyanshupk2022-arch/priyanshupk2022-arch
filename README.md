@@ -1,4 +1,4 @@
-<div align="center">
+ï»¿<div align="center">
   <a href="https://github.com/priyanshupk2022-arch">
     <img src="./assets/avatar.jpg" width="135" height="135" style="border-radius: 50%; object-fit: cover; border: 2px solid #38BDF8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.25);" alt="Priyanshu Avatar" />
   </a>
@@ -9,10 +9,11 @@
   </a>
 
   <p>
-    <a href="https://github.com/priyanshupk2022-arch?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-    <a href="mailto:contact@priyanshu.dev"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/priyanshupk2022-arch?tab=repositories"><img src="https://img.shields.io/badge/GitHub-priyanshupk2022--arch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/priyanshu-s4nvi/"><img src="https://img.shields.io/badge/LinkedIn-priyanshu--s4nvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/w3fparthh"><img src="https://img.shields.io/badge/X-@w3fparthh-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter" /></a>
+    <a href="mailto:priyanshupk2022@gmail.com"><img src="https://img.shields.io/badge/Email-priyanshupk2022@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-w3f.parthh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 </div>
 
@@ -22,9 +23,9 @@
 
 `
 +----------------------------------------------------------------------------------------+
-¦  "I leverage AI heavily to accelerate software development and ship products faster,   ¦
-¦   while maintaining full ownership of system architecture, engineering decisions,      ¦
-¦   deterministic invariants, testing, debugging, and deployment."                       ¦
+ï¿½  "I leverage AI heavily to accelerate software development and ship products faster,   ï¿½
+ï¿½   while maintaining full ownership of system architecture, engineering decisions,      ï¿½
+ï¿½   deterministic invariants, testing, debugging, and deployment."                       ï¿½
 +----------------------------------------------------------------------------------------+
 `
 
@@ -74,20 +75,20 @@
 `mermaid
 flowchart LR
     subgraph Autonomous Agent Runtimes & Security
-        ZS["??? ZeroShield\nAST Exploit & Immunization Engine\n[TypeScript • Daytona • MCP]"]
-        SC["??? Sentinel Chain\nCTI Harvester & Self-Healing Web Substrate\n[Python • FastAPI • Bright Data]"]
-        BR["? BRAHMA\nCognitive OS & MCTS AST Solver\n[Pure Rust 2024 • Tokio • TUI]"]
+        ZS["??? ZeroShield\nAST Exploit & Immunization Engine\n[TypeScript ï¿½ Daytona ï¿½ MCP]"]
+        SC["??? Sentinel Chain\nCTI Harvester & Self-Healing Web Substrate\n[Python ï¿½ FastAPI ï¿½ Bright Data]"]
+        BR["? BRAHMA\nCognitive OS & MCTS AST Solver\n[Pure Rust 2024 ï¿½ Tokio ï¿½ TUI]"]
     end
 
     subgraph Full-Stack Products & Financial Infrastructure
-        VP["?? VAPOR\nAgentic Spend Governance & Cents Ledger\n[Next.js 15 • Redis Lua • Supabase RLS]"]
-        AN["??? ANOTAI.PRO\nShopify Multi-Agent Revenue & Margin Team\n[Remix • Polaris • Prisma • Gemini]"]
+        VP["?? VAPOR\nAgentic Spend Governance & Cents Ledger\n[Next.js 15 ï¿½ Redis Lua ï¿½ Supabase RLS]"]
+        AN["??? ANOTAI.PRO\nShopify Multi-Agent Revenue & Margin Team\n[Remix ï¿½ Polaris ï¿½ Prisma ï¿½ Gemini]"]
     end
 `
 
 ---
 
-### 1. [ZeroShield](https://github.com/priyanshupk2022-arch/zeroshield) — Autonomous Cyber Red-Team & Exploit Immunizer
+### 1. [ZeroShield](https://github.com/priyanshupk2022-arch/zeroshield) ï¿½ Autonomous Cyber Red-Team & Exploit Immunizer
 *Autonomous vulnerability hunter, sandbox exploit arena, and AST codemod synthesizer built on Daytona SDK, TrueForge MCP, and Qodo.*
 
 - **AST Vulnerability Hunter:** Traverses TypeScript/JavaScript Abstract Syntax Trees (	s.createSourceFile) to discover tainted source-to-sink injection paths (CWE-78 Command Injection, CWE-1321 Prototype Pollution, CWE-287 Broken Auth).
@@ -101,7 +102,7 @@ ode --test packages/core/dist/**/*.test.js).
 
 ---
 
-### 2. [SENTINEL-CHAIN](https://github.com/priyanshupk2022-arch/SENTINEL-CHAIN) — Autonomous CTI Harvester & Self-Healing Web Substrate
+### 2. [SENTINEL-CHAIN](https://github.com/priyanshupk2022-arch/SENTINEL-CHAIN) ï¿½ Autonomous CTI Harvester & Self-Healing Web Substrate
 *Continuous Cyber Threat Intelligence ingestion platform that automatically repairs broken scrapers upon DOM redesigns.*
 
 - **Mathematical Drift Model:** Computes structural drift  = 1.0 - (0.50 C_f + 0.30 V_t + 0.20 A_c)$; isolates feeds when  > 0.35$.
@@ -112,7 +113,7 @@ ode --test packages/core/dist/**/*.test.js).
 
 ---
 
-### 3. [V4P0R](https://github.com/priyanshupk2022-arch/V4P0R) — Agentic Corporate Card & Spend Governance Engine
+### 3. [V4P0R](https://github.com/priyanshupk2022-arch/V4P0R) ï¿½ Agentic Corporate Card & Spend Governance Engine
 *Two-speed financial execution engine combining sub-100ms atomic Redis Lua authorizations with immutable PostgreSQL double-entry ledgers.*
 
 - **Zero-Float Financial Math:** Strict BigInt integer minor units (	oCents, 	oDollars, ddCents) eliminating rounding bugs.
@@ -125,7 +126,7 @@ pm test).
 
 ---
 
-### 4. [BRAHMA](https://github.com/priyanshupk2022-arch/BRAHMA) — Cognitive Operating System (CogOS) in Pure Rust
+### 4. [BRAHMA](https://github.com/priyanshupk2022-arch/BRAHMA) ï¿½ Cognitive Operating System (CogOS) in Pure Rust
 *Autonomous programming runtime with Monte Carlo Tree Search (MCTS) AST delta synthesis and cryptographic enclaves.*
 
 - **Compiler-Coincident Synthesis (SQCS):** Salsa-like query database that tests incremental AST mutations and automatically rolls back type mismatches.
@@ -136,7 +137,7 @@ pm test).
 
 ---
 
-### 5. [ANOTAI.PRO](https://github.com/priyanshupk2022-arch/ANOTAI.PRO) — Shopify Multi-Agent Revenue & Margin Guardian Team
+### 5. [ANOTAI.PRO](https://github.com/priyanshupk2022-arch/ANOTAI.PRO) ï¿½ Shopify Multi-Agent Revenue & Margin Guardian Team
 *Shopify-embedded Remix SaaS featuring a 5-agent autonomous operations team with hard COGS margin protections.*
 
 - **Hierarchical Multi-Agent Team:** Personal Shopper, Cart Sniper, Margin Guardian, Retention Engine, and CEO escalation.
@@ -156,5 +157,5 @@ pm test).
 ---
 
 <div align="center">
-  <sub>Portfolio audited and verified against live source code • 2026</sub>
+  <sub>Portfolio audited and verified against live source code ï¿½ 2026</sub>
 </div>
