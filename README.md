@@ -1,6 +1,9 @@
-# Priyanshu
-**AI-Assisted Software & Systems Engineer**  
-*Building Autonomous Agent Runtimes, Full-Stack Applications, and Resilient Cloud Infrastructure.*
+<div align="center">
+  <img src="./assets/avatar.jpg" width="135" height="135" style="border-radius: 50%; object-fit: cover; border: 2px solid #30363d;" alt="Priyanshu" />
+  <h1>Priyanshu</h1>
+  <p><strong>AI-Assisted Software & Systems Engineer</strong></p>
+  <p><em>Building Autonomous Agent Runtimes, Full-Stack Applications, and Resilient Cloud Infrastructure.</em></p>
+</div>
 
 ---
 
@@ -114,4 +117,5 @@ flowchart LR
 <div align="center">
   <sub>Portfolio audited and verified against live source code • 2026</sub>
 </div>
+
 
