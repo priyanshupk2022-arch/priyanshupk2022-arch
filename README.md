@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <a href="https://github.com/priyanshupk2022-arch">
     <img src="./assets/avatar.jpg" width="135" height="135" style="border-radius: 50%; object-fit: cover; border: 2px solid #38BDF8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.25);" alt="Priyanshu Avatar" />
   </a>
@@ -19,7 +19,7 @@
 
 ---
 
-### ? About Me
+### ⚡ About Me
 
 `
 +----------------------------------------------------------------------------------------+
