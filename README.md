@@ -39,9 +39,11 @@
 
 ### &nbsp;> whoami
 
-I build AI-powered products, autonomous agent systems, and production backend infrastructure. My work spans AST-level code analysis, self-healing data pipelines, deterministic financial engines, multi-agent SaaS platforms, and systems programming in Rust.
+I’m Priyanshu, a Class 11 student with an obsession for coding, technology, and building things.
 
-I take ideas from architecture through implementation, testing, and deployment — then iterate. I use AI tools in my workflow, but engineering decisions, system design, invariant enforcement, and testing are mine.
+I’m deeply interested in software engineering, AI agents, automation, and emerging technology. Most of my learning happens by building — taking an idea, figuring out how it should work, and turning it into something real.
+
+I’m constantly exploring new technologies, improving my engineering skills, and looking for interesting problems to solve.
 
 `
 🔭  Focus        Autonomous agent runtimes & AST codemod synthesis
@@ -284,6 +286,12 @@ graph LR
 <!-- ========================================================================= -->
 
 <div align="center">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshupk2022-arch&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" alt="Visitor Counter"/>&nbsp;
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-7EE787?style=flat-square&logo=statuspage&logoColor=white" alt="Status Badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK%20%7C%20AI%20SYSTEMS-58A6FF?style=flat-square" alt="Stack Badge"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:58A6FF,100:0D1117&height=120&section=footer">
