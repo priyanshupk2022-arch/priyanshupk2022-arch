@@ -1,27 +1,41 @@
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1A1B27&height=220&section=header&text=Priyanshu&fontSize=72&fontColor=C9D1D9&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Product%20Builder&descSize=18&descColor=8B949E&descAlignY=55" alt="Header" />
+<!-- ========================================================================= -->
+<!--                           HERO HEADER SECTION                             -->
+<!-- ========================================================================= -->
 
-<!-- TYPING SVG -->
 <div align="center">
 
-  <a href="https://github.com/priyanshupk2022-arch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=30&lines=Building+AI+Agents+%26+Autonomous+Runtimes;Shipping+Full-Stack+SaaS+Products;Deterministic+Systems+%7C+Zero+False+Positives;Architecture+%E2%86%92+Implementation+%E2%86%92+Deployment" alt="Typing SVG" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1A1B27,70:1F6FEB,100:58A6FF&height=230&section=header&text=PRIYANSHU&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=60&descColor=8B949E&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,35:E1E4E8,70:0969DA,100:1F6FEB&height=230&section=header&text=PRIYANSHU&fontSize=64&fontColor=1F2328&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=60&descColor=57606A&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1A1B27,70:1F6FEB,100:58A6FF&height=230&section=header&text=PRIYANSHU&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=60&descColor=8B949E&animation=fadeIn" width="100%" alt="Header Banner" />
+</picture>
 
-  <br/><br/>
+<br/>
 
-  <!-- SOCIAL BADGES -->
+<!-- DYNAMIC TYPING SVG ENGINE -->
+<a href="https://github.com/priyanshupk2022-arch">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=36&lines=Building+AI+Agents+%26+Autonomous+Runtimes;Shipping+Full-Stack+SaaS+Products;Deterministic+Systems+%7C+Zero+False+Positives;Architecture+%E2%86%92+Implementation+%E2%86%92+Deployment" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- SOCIAL MATRIX -->
+<p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-s4nvi/"><img src="https://img.shields.io/badge/LinkedIn-priyanshu--s4nvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://x.com/w3fparthh"><img src="https://img.shields.io/badge/X-@w3fparthh-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
   <a href="mailto:priyanshupk2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-priyanshupk2022-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-w3f.parthh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
 </div>
 
-<br/>
+---
 
-<!-- ABOUT ME -->
-<img align="right" src="./assets/avatar.jpg" width="140" height="140" style="border-radius: 12px; border: 2px solid #30363d;" alt="Priyanshu" />
+<!-- ========================================================================= -->
+<!--                         WHOAMI TERMINAL BLOCK                             -->
+<!-- ========================================================================= -->
+
+<img align="right" src="./assets/avatar.jpg" width="135" height="135" style="border-radius: 12px; border: 2px solid #30363d; margin-left: 15px;" alt="Priyanshu" />
 
 ### &nbsp;`> whoami`
 
@@ -30,50 +44,106 @@ I build AI-powered products, autonomous agent systems, and production backend in
 I take ideas from architecture through implementation, testing, and deployment — then iterate. I use AI tools in my workflow, but engineering decisions, system design, invariant enforcement, and testing are mine.
 
 ```
-🔭  Current Focus    Autonomous agent runtimes & AST codemod synthesis
-⚡  Core Domains     AI Systems • Full-Stack SaaS • Cloud Infrastructure • Security
-🧪  Test Philosophy  Triple-Lock: exploit blocked + golden pass + suite exit 0
-🦀  Systems Lang     Rust 2024 (#![forbid(unsafe_code)])
+🔭  Focus        Autonomous agent runtimes & AST codemod synthesis
+⚡  Domains      AI Systems • Full-Stack SaaS • Cloud Infrastructure • Security
+🧪  Philosophy   Triple-Lock: exploit blocked + golden pass + suite exit 0
+🦀  Systems      Rust 2024 (#![forbid(unsafe_code)]) • Tokio Async
 ```
 
 <br clear="both"/>
 
 ---
 
-<!-- TECH STACK WITH SKILL ICONS -->
+<!-- ========================================================================= -->
+<!--                      TECHNICAL COMPETENCIES MATRIX                        -->
+<!-- ========================================================================= -->
+
 ### &nbsp;`> tech --stack`
 
-<div align="center">
-
-#### Languages
-<img src="https://skillicons.dev/icons?i=ts,py,rust,js,bash&theme=dark" alt="Languages" />
-
-#### Frameworks & Product
-<img src="https://skillicons.dev/icons?i=react,nextjs,remix,tailwind,express&theme=dark" alt="Frameworks" />
-
-#### Data & Infrastructure
-<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,supabase,prisma&theme=dark" alt="Data" />
-
-#### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,github,githubactions,nodejs,vite&theme=dark" alt="DevOps" />
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-### &nbsp;`> stats --live`
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshupk2022-arch&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupk2022-arch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</div>
+<table width="100%" border="0" cellspacing="4" cellpadding="6">
+  <thead>
+    <tr align="left">
+      <th width="20%">Category</th>
+      <th width="80%">Technologies & Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>⚡ CORE</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" alt="Python"/>&nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="22" alt="TypeScript"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🚀 PRODUCT</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="22" alt="Next.js"/>&nbsp;
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="22" alt="React"/>&nbsp;
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22" alt="FastAPI"/>&nbsp;
+        <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" height="22" alt="Remix"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>💾 DATA</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="22" alt="PostgreSQL"/>&nbsp;
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="22" alt="Supabase"/>&nbsp;
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="22" alt="Redis"/>&nbsp;
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" height="22" alt="Prisma"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>☁️ INFRA</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="22" alt="Docker"/>&nbsp;
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="22" alt="Vercel"/>&nbsp;
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="22" alt="GitHub Actions"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🧠 SPECIALIZED</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white" height="22" alt="AI Agents"/>&nbsp;
+        <img src="https://img.shields.io/badge/Model%20Context%20Protocol-FF6B6B?style=flat-square&logo=anthropic&logoColor=white" height="22" alt="MCP"/>&nbsp;
+        <img src="https://img.shields.io/badge/Sandboxed%20Execution-10B981?style=flat-square&logo=webassembly&logoColor=white" height="22" alt="Sandboxed Execution"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupk2022-arch&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=3FB950&area=true&area_color=161B22&hide_border=true" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=py,ts,rust,nextjs,react,fastapi,remix,postgres,supabase,redis,prisma,docker,githubactions,tailwind&theme=dark" alt="Skill Icons Matrix" />
 </div>
+
+---
+
+<!-- ========================================================================= -->
+<!--                      LIVE TELEMETRY & GITHUB STATS                        -->
+<!-- ========================================================================= -->
+
+### &nbsp;`> stats --live`
+
+<table width="100%" border="0" cellspacing="4" cellpadding="0">
+  <tr align="center">
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=priyanshupk2022-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupk2022-arch&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakNum=7EE787&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupk2022-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupk2022-arch&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=58A6FF&line=7EE787&point=FFFFFF&area=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -83,7 +153,10 @@ I take ideas from architecture through implementation, testing, and deployment �
 
 ---
 
-<!-- FLAGSHIP SYSTEMS -->
+<!-- ========================================================================= -->
+<!--                        FLAGSHIP SYSTEMS SHOWCASE                          -->
+<!-- ========================================================================= -->
+
 ### &nbsp;`> projects --flagship`
 
 <br/>
@@ -220,14 +293,10 @@ graph LR
 
 ---
 
-<!-- TOP LANGUAGES -->
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupk2022-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</div>
+<!-- ========================================================================= -->
+<!--                     ENGINEERING INVARIANTS BLOCK                          -->
+<!-- ========================================================================= -->
 
----
-
-<!-- ENGINEERING PRINCIPLES -->
 ### &nbsp;`> principles`
 
 ```
@@ -249,11 +318,24 @@ graph LR
 
 ---
 
+<!-- ========================================================================= -->
+<!--                       FOOTER & VISITOR TELEMETRY                          -->
+<!-- ========================================================================= -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshupk2022-arch&style=for-the-badge&color=0D1117&labelColor=161B22&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshupk2022-arch&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" alt="Visitor Counter"/>&nbsp;
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-7EE787?style=flat-square&logo=statuspage&logoColor=white" alt="Status Badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK%20%7C%20AI%20SYSTEMS-58A6FF?style=flat-square" alt="Stack Badge"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:58A6FF,100:0D1117&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,50:1F6FEB,100:F6F8FA&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:58A6FF,100:0D1117&height=120&section=footer" width="100%" alt="Footer Wave" />
+</picture>
+
+<sub>Built with architectural precision • © 2026 Priyanshu</sub>
+
 </div>
-
-<br/>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1A1B27&height=120&section=footer" alt="Footer" />
