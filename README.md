@@ -37,18 +37,18 @@
 
 <img align="right" src="./assets/avatar.jpg" width="135" height="135" style="border-radius: 12px; border: 2px solid #30363d; margin-left: 15px;" alt="Priyanshu" />
 
-### &nbsp;`> whoami`
+### &nbsp;> whoami
 
 I build AI-powered products, autonomous agent systems, and production backend infrastructure. My work spans AST-level code analysis, self-healing data pipelines, deterministic financial engines, multi-agent SaaS platforms, and systems programming in Rust.
 
 I take ideas from architecture through implementation, testing, and deployment — then iterate. I use AI tools in my workflow, but engineering decisions, system design, invariant enforcement, and testing are mine.
 
-```
+`
 🔭  Focus        Autonomous agent runtimes & AST codemod synthesis
 ⚡  Domains      AI Systems • Full-Stack SaaS • Cloud Infrastructure • Security
 🧪  Philosophy   Triple-Lock: exploit blocked + golden pass + suite exit 0
 🦀  Systems      Rust 2024 (#![forbid(unsafe_code)]) • Tokio Async
-```
+`
 
 <br clear="both"/>
 
@@ -58,7 +58,7 @@ I take ideas from architecture through implementation, testing, and deployment �
 <!--                      TECHNICAL COMPETENCIES MATRIX                        -->
 <!-- ========================================================================= -->
 
-### &nbsp;`> tech --stack`
+### &nbsp;> tech --stack
 
 <table width="100%" border="0" cellspacing="4" cellpadding="6">
   <thead>
@@ -112,58 +112,19 @@ I take ideas from architecture through implementation, testing, and deployment �
   </tbody>
 </table>
 
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,rust,nextjs,react,fastapi,remix,postgres,supabase,redis,prisma,docker,githubactions,tailwind&theme=dark" alt="Skill Icons Matrix" />
-</div>
-
----
-
-<!-- ========================================================================= -->
-<!--                      LIVE TELEMETRY & GITHUB STATS                        -->
-<!-- ========================================================================= -->
-
-### &nbsp;`> stats --live`
-
-<table width="100%" border="0" cellspacing="4" cellpadding="0">
-  <tr align="center">
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=priyanshupk2022-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupk2022-arch&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakNum=7EE787&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupk2022-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupk2022-arch&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=58A6FF&line=7EE787&point=FFFFFF&area=true" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshupk2022-arch&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</div>
-
 ---
 
 <!-- ========================================================================= -->
 <!--                        FLAGSHIP SYSTEMS SHOWCASE                          -->
 <!-- ========================================================================= -->
 
-### &nbsp;`> projects --flagship`
+### &nbsp;> projects --flagship
 
 <br/>
 
 <div align="center">
 
-```mermaid
+`mermaid
 graph LR
     subgraph sec ["🛡️ Security & Agent Runtimes"]
         ZS["ZeroShield\nAST Exploit Scanner\n+ Sandbox Arena"]
@@ -182,7 +143,7 @@ graph LR
     style sec fill:#161b22,stroke:#30363d,color:#c9d1d9
     style prod fill:#161b22,stroke:#30363d,color:#c9d1d9
     style sys fill:#161b22,stroke:#30363d,color:#c9d1d9
-```
+`
 
 </div>
 
@@ -193,11 +154,11 @@ graph LR
 <tr>
 <td>
 
-#### 🛡️ [`ZeroShield`](https://github.com/priyanshupk2022-arch/zeroshield) — Autonomous Cyber Red-Team & Exploit Immunizer
+#### 🛡️ [ZeroShield](https://github.com/priyanshupk2022-arch/zeroshield) — Autonomous Cyber Red-Team & Exploit Immunizer
 
 > AST vulnerability scanner → ephemeral sandbox exploit arena → codemod synthesizer
 
-- Scans JS/TS ASTs via TypeScript Compiler API (`ts.createSourceFile`) for CWE-78, CWE-1321, CWE-287 injection paths
+- Scans JS/TS ASTs via TypeScript Compiler API (	s.createSourceFile) for CWE-78, CWE-1321, CWE-287 injection paths
 - Provisions isolated Docker containers (Daytona SDK) to execute live attack payloads — zero false positives
 - NVIDIA AVO synthesizes safe AST rewrites, validated by Zod schemas
 - **Triple-Lock Gate:** exploit blocked + golden HTTP 200 + test suite exit 0
@@ -215,15 +176,15 @@ graph LR
 <tr>
 <td>
 
-#### 💳 [`V4P0R`](https://github.com/priyanshupk2022-arch/V4P0R) — Agentic Corporate Card & Spend Governance Engine
+#### 💳 [V4P0R](https://github.com/priyanshupk2022-arch/V4P0R) — Agentic Corporate Card & Spend Governance Engine
 
 > Two-speed financial engine: sub-100ms Redis Lua authorization + immutable PostgreSQL double-entry ledger
 
-- `BigInt` integer minor units (`centsMath.ts`) — zero IEEE 754 floating-point errors
-- Atomic Redis Lua script (`process_authorization.lua`) — no race conditions, no double-spending
-- Append-only SQL schema with `DEBIT == CREDIT` constraints + Row-Level Security
+- BigInt integer minor units (centsMath.ts) — zero IEEE 754 floating-point errors
+- Atomic Redis Lua script (process_authorization.lua) — no race conditions, no double-spending
+- Append-only SQL schema with DEBIT == CREDIT constraints + Row-Level Security
 - Constant-time HMAC-SHA256 replay protection with 300s timestamp drift tolerance
-- Clean architecture: `domain/` · `application/` · `infrastructure/` · `adapters/`
+- Clean architecture: domain/ · pplication/ · infrastructure/ · dapters/
 
 <img src="https://img.shields.io/badge/Tests-66%2F66_Passing-3FB950?style=flat-square&logo=vitest&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redis_Lua-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase_RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 
@@ -236,11 +197,11 @@ graph LR
 <tr>
 <td>
 
-#### 🛰️ [`SENTINEL-CHAIN`](https://github.com/priyanshupk2022-arch/SENTINEL-CHAIN) — Autonomous CTI Harvester & Self-Healing Web Substrate
+#### 🛰️ [SENTINEL-CHAIN](https://github.com/priyanshupk2022-arch/SENTINEL-CHAIN) — Autonomous CTI Harvester & Self-Healing Web Substrate
 
 > Continuous threat intelligence ingestion with closed-loop scraper self-healing
 
-- Mathematical drift model: `Qs = 0.50·Cf + 0.30·Vt + 0.20·Ac` — quarantine when `Dt > 0.35`
+- Mathematical drift model: Qs = 0.50·Cf + 0.30·Vt + 0.20·Ac — quarantine when Dt > 0.35
 - Bright Data AI Flow auto-repairs broken CSS selectors on DOM mutations
 - Threat Knowledge Graph ingests CVE records into SQLAlchemy async entities
 - In-process mock target server for fully offline E2E testing
@@ -256,14 +217,14 @@ graph LR
 <tr>
 <td>
 
-#### ⚡ [`BRAHMA`](https://github.com/priyanshupk2022-arch/BRAHMA) — Cognitive Operating System (CogOS) in Pure Rust
+#### ⚡ [BRAHMA](https://github.com/priyanshupk2022-arch/BRAHMA) — Cognitive Operating System (CogOS) in Pure Rust
 
 > MCTS AST delta synthesis + cryptographic memory enclaves + interactive TUI
 
 - Monte Carlo Tree Search type-solver prunes invalid AST branches before compilation
 - Salsa-like incremental query DB auto-rolls back type mismatches
-- `#![forbid(unsafe_code)]` · Argon2 hashing · AES-GCM encryption · `zeroize` memory scrubbing
-- 30+ modules: `mcts.rs` · `mutator.rs` · `parser.rs` · `crypto.rs` · `sandbox.rs` · `orchestration.rs`
+- #![forbid(unsafe_code)] · Argon2 hashing · AES-GCM encryption · zeroize memory scrubbing
+- 30+ modules: mcts.rs · mutator.rs · parser.rs · crypto.rs · sandbox.rs · orchestration.rs
 
 <img src="https://img.shields.io/badge/Rust_2024-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Tokio-000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Syn_%2B_Quote-000?style=flat-square" /> <img src="https://img.shields.io/badge/Ratatui_TUI-000?style=flat-square" /> <img src="https://img.shields.io/badge/Rusqlite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
@@ -276,7 +237,7 @@ graph LR
 <tr>
 <td>
 
-#### 🛍️ [`ANOTAI.PRO`](https://github.com/priyanshupk2022-arch/ANOTAI.PRO) — Shopify Multi-Agent Revenue & Margin Guardian
+#### 🛍️ [ANOTAI.PRO](https://github.com/priyanshupk2022-arch/ANOTAI.PRO) — Shopify Multi-Agent Revenue & Margin Guardian
 
 > 5-agent autonomous operations team embedded in Shopify Admin with hard COGS margin protections
 
@@ -297,9 +258,9 @@ graph LR
 <!--                     ENGINEERING INVARIANTS BLOCK                          -->
 <!-- ========================================================================= -->
 
-### &nbsp;`> principles`
+### &nbsp;> principles
 
-```
+`
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │  DETERMINISTIC INVARIANTS > PROBABILISTIC OUTPUTS                          │
 │  Business logic, financial math, and security gates enforced by            │
@@ -314,7 +275,7 @@ graph LR
 │  CODE IS THE SOURCE OF TRUTH                                               │
 │  Every claim verified against live source code and reproducible test runs   │
 └─────────────────────────────────────────────────────────────────────────────┘
-```
+`
 
 ---
 
@@ -323,12 +284,6 @@ graph LR
 <!-- ========================================================================= -->
 
 <div align="center">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshupk2022-arch&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" alt="Visitor Counter"/>&nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-7EE787?style=flat-square&logo=statuspage&logoColor=white" alt="Status Badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/STACK-FULLSTACK%20%7C%20AI%20SYSTEMS-58A6FF?style=flat-square" alt="Stack Badge"/>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:58A6FF,100:0D1117&height=120&section=footer">
